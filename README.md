@@ -1,6 +1,6 @@
 # Build outside of Docker and then run in container
 
-`docker build -t demoWeb .`
+`docker build -t demoweb .`
 
 `docker run -itd demoweb .`
 
